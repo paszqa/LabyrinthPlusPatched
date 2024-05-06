@@ -1,0 +1,11 @@
+[THEME]
+Pieces = Pool
+WallTexture = Demon/Demon_Rail.jpg
+FloorTexture = Demon/Demon_Floor.jpg
+BoxTexture = Demon/Demon_box.jpg
+Ball = Eyeball2
+PathScale = 1.0
+WideBox = 1
+PathTexture = Demon/Demondot.tif
+Background = demon
+Song = Demon.mp3

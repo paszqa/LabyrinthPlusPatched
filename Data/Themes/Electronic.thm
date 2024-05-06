@@ -1,0 +1,14 @@
+[THEME]
+Pieces = Circuit
+WallTexture = Circuit_rail.jpg
+FloorTexture = Circuit_floor.jpg
+BumpTexture = Circuit_rail_bump.jpg
+BoxTexture = Circuit_box.jpg
+BumpScale=20
+Ball = Circuitball
+PathTexture = Solderdot.tif
+PathScale = 1.0
+WideBox = 0
+Song = ElectronicWorldTheme.mp3
+Background = Circuit_Floor
+FloorBelowWalls = 1

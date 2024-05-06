@@ -1,0 +1,12 @@
+[THEME]
+Pieces = Cheese
+WallTexture = Cheese_rail.jpg
+FloorTexture = Butchers_floor.jpg
+BumpTexture = Cheese_rail_bump.jpg
+BoxTexture = Cheese_Box.jpg
+PathScale = 1.0
+WideBox = 0
+PathTexture = rockdot.tif
+Ball = CheeseBall
+Song = CheeseWorldTheme.mp3
+Background = Cheese

@@ -1,0 +1,11 @@
+[THEME]
+Pieces = spike
+WallTexture = spike_rail.jpg
+FloorTexture = spike_floor.jpg
+BoxTexture = spike_box.jpg
+Ball = Teknoball
+PathTexture = reddotlight.tif
+PathScale = 1.0
+WideBox = 0
+Song = SpikeWorldTheme.mp3
+Background = labback

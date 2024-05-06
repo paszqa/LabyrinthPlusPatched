@@ -1,0 +1,12 @@
+[THEME]
+Pieces = Circuit
+WallTexture = Space/space_rail.jpg
+FloorTexture = Space/space_floor.jpg
+BoxTexture = Space/spacebox.jpg
+Ball = Moon
+PathScale = 1.0
+WideBox = 0
+PathTexture = Space/spacedot.tif
+Background = cosmos
+Song = Space.mp3
+FloorBelowWalls = 1

@@ -1,0 +1,15 @@
+[CONFIG]
+Adapter=NVIDIA GeForce RTX 4070 
+RGBFormat=22
+AlphaFormat=21
+Width=1600
+Height=1200
+Format=22
+UseEnvMaps=1
+FSAA=0
+BumpMapWalls=1
+Shadows=1
+Reflections=1
+Player=b
+MyLabyrinth=Brickyard
+ExtraLevels=10 Missile

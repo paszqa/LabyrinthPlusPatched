@@ -1,0 +1,11 @@
+[THEME]
+Pieces = brick
+WallTexture = Brick_rail.jpg
+FloorTexture = Asphalt_floor.jpg
+BumpTexture = Brick_rail_bump.jpg
+BoxTexture = Concrete_box.jpg
+PathTexture = Icedot.tif
+PathScale = 1.0
+WideBox = 1
+Song = BrickWorldTheme.mp3
+Background = brick

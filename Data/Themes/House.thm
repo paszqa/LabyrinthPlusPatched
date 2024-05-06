@@ -1,0 +1,12 @@
+[THEME]
+Pieces = House
+WallTexture = House_rail.jpg
+FloorTexture = House_floor.jpg
+BoxTexture = House_Box.jpg
+Ball = Ironball
+PathTexture = Housedot.tif
+PathScale = 1.0
+WideBox = 0
+Song = HedgeWorldTheme.mp3
+Background = Alps
+FloorBelowWalls = 1

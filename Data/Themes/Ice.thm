@@ -1,0 +1,13 @@
+[THEME]
+Pieces = Ice
+WallTexture = Ice_Rail.jpg
+FloorTexture = Ice_Floor.jpg
+BumpTexture = Ice_rail_bump.jpg
+BoxTexture = Ice_Box.jpg
+PathScale = 1.0
+PathTexture = Icedot.tif
+Ball = Snowball
+Background = arctic
+WideBox = 1
+Song = IceWorldTheme.mp3
+TrapTexture = IrisIce.jpg

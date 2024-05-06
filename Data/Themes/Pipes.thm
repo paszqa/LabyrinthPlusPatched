@@ -1,0 +1,12 @@
+[THEME]
+Pieces = Pipe
+WallTexture = Pipe_rail.jpg
+FloorTexture = Pipe_floor.jpg
+BoxTexture = Pipe_box.jpg
+Ball = Teknoball
+PathTexture = Bluedotlight.tif
+PathScale = 1.0
+WideBox = 0
+Song = Thump Theme.mp3
+Background = metal
+FloorBelowWalls = 1

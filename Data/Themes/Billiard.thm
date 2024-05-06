@@ -1,0 +1,11 @@
+[THEME]
+Pieces = Pool
+WallTexture = Pool_Rail.jpg
+FloorTexture = Pool_Floor.jpg
+BoxTexture = Pool_Box.jpg
+Ball = Eightball
+PathScale = 1.0
+WideBox = 1
+PathTexture = Pooldot.tif
+Background = vegas
+Song = BilliardWorldTheme.mp3

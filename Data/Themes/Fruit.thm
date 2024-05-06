@@ -1,0 +1,13 @@
+[THEME]
+Pieces = Brick
+WallTexture = Fruit/Fruit_Rail.jpg
+FloorTexture = Fruit/Fruit_Floor.jpg
+BumpTexture = Fruit/Fruit_Rail_Bump.jpg
+BoxTexture = Fruit/Fruit_Floor.jpg
+PathScale = 12.0
+WideBox = 0
+PathTexture = Fruit/Fruit_Dot.tif
+Ball = Lemon
+Song = Fruit.mp3
+Background = sherwood
+TrapTexture = Fruit/Fruit_Iris.jpg

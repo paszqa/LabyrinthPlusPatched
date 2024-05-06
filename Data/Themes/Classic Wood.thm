@@ -1,0 +1,12 @@
+[THEME]
+Pieces = bevel
+WallTexture = wood_rail.jpg
+FloorTexture = wood_floor.jpg
+BumpTexture = wood_rail_bump.jpg
+BoxTexture = wood_floor.jpg
+PathScale = 1.0
+WideBox = 0
+PathTexture = browndot.tif
+Song = TheNonStopRag.mp3
+TrapTexture = IrisWood.jpg
+Background = 1930's2

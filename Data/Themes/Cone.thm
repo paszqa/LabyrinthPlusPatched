@@ -1,0 +1,12 @@
+[THEME]
+Pieces = Cone
+WallTexture = Cone_Rail.jpg
+FloorTexture = Asphalt_Floor.jpg
+BoxTexture = cone_box.jpg
+Ball = Tireball
+PathScale = 1.0
+WideBox = 1
+PathTexture = trafficdot.tif
+Song = ConesWorldTheme.mp3
+TrapTexture = Irismanhole.JPG
+Background = cone

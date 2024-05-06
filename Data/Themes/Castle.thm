@@ -1,0 +1,13 @@
+[THEME]
+Pieces = castle
+WallTexture = Castle_Rail.jpg
+FloorTexture = Dirt_Floor.jpg
+BumpTexture = Castle_rail_bump.jpg
+BoxTexture = Castle_Box.jpg
+Ball = Ironball
+PathScale = 1.0
+PathTexture = rockdot.tif
+WideBox = 1
+Song = CastleWorldTheme.mp3
+Background = sherwood
+TrapTexture = IrisIron.jpg

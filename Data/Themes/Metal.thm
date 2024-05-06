@@ -1,0 +1,12 @@
+[THEME]
+Pieces = Flat
+WallTexture = Metal_rail.jpg
+FloorTexture = Metal_floor.jpg
+BumpTexture = Ice_rail_bump.jpg
+BoxTexture = Metal_box.jpg
+Ball = metalball
+PathTexture = reddotlight.tif
+PathScale = 1.0
+WideBox = 0
+Song = Thump Theme.mp3
+Background = metal

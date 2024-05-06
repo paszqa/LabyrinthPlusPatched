@@ -1,0 +1,12 @@
+[THEME]
+Pieces = bevel
+WallTexture = Hedge_rail.jpg
+FloorTexture = Dirt_floor.jpg
+BumpTexture = Hedge_rail_bump.jpg
+BoxTexture = wood_floor.jpg
+PathScale = 1.0
+WideBox = 0
+PathTexture = rockdot.tif
+Ball = Croquet Ball
+Song = HedgeWorldTheme.mp3
+Background = sherwood

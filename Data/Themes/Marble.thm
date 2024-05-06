@@ -1,0 +1,11 @@
+[THEME]
+Pieces = bevel
+WallTexture = Marble_rail2.jpg
+BumpTexture = Marble_rail_bump.jpg
+FloorTexture = Marble_floor.jpg
+BoxTexture = Marble_box.jpg
+PathTexture = Icedot.tif
+PathScale = 1.0
+WideBox = 1
+Song = ConesWorldTheme.mp3
+Background = Tropical

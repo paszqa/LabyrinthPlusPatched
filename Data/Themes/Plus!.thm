@@ -1,0 +1,14 @@
+[THEME]
+Pieces = Plus!
+WallTexture = Plus!_rail.jpg
+FloorTexture = Plus!_floor.jpg
+BumpTexture = Plus!_rail_bump.jpg
+BumpScale=10
+BoxTexture = Plus!_box.jpg
+Ball = Plus!Ball
+PathTexture = Plus!dot.tif
+PathScale = 1.0
+WideBox = 0
+Song = NiceDay Theme.mp3
+Background = microplus
+FloorBelowWalls = 1
